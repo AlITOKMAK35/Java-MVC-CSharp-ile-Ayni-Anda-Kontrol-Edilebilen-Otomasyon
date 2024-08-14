@@ -1,0 +1,450 @@
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Proje_Takip.dll.config
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Proje_Takip.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Proje_Takip.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\csc.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\csc.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\csc.rsp
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\csi.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\csi.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\csi.rsp
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.AppContext.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Console.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Net.Http.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\vbc.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\vbc.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\vbc.rsp
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Antlr3.Runtime.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\EntityFramework.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\EntityFramework.SqlServer.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Newtonsoft.Json.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Helpers.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Mvc.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Optimization.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Razor.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.WebPages.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\WebGrease.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\EntityFramework.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\EntityFramework.SqlServer.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Helpers.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Mvc.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Optimization.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.Razor.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.WebPages.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Newtonsoft.Json.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Antlr3.Runtime.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\obj\Debug\Proje_Takip.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\obj\Debug\Proje_Takip.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\obj\Debug\Proje_Takip.csproj.CopyComplete
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\obj\Debug\Proje_Takip.dll
+C:\Users\ALİ TOKMAK\Source\Repos\Proje_Takip\obj\Debug\Proje_Takip.pdb
+C:\Users\user\Desktop\Proje_Takip\bin\Proje_Takip.dll.config
+C:\Users\user\Desktop\Proje_Takip\bin\Proje_Takip.dll
+C:\Users\user\Desktop\Proje_Takip\bin\Proje_Takip.pdb
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Proje_Takip\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Proje_Takip\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Proje_Takip\bin\EntityFramework.dll
+C:\Users\user\Desktop\Proje_Takip\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Proje_Takip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Proje_Takip\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Proje_Takip\bin\WebGrease.dll
+C:\Users\user\Desktop\Proje_Takip\bin\EntityFramework.xml
+C:\Users\user\Desktop\Proje_Takip\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Proje_Takip\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Proje_Takip\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Proje_Takip\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Proje_Takip\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Proje_Takip\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Proje_Takip\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Proje_Takip\bin\tr\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Proje_Takip\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Proje_Takip\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Proje_Takip\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Proje_Takip\obj\Debug\Proje_Takip.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proje_Takip\obj\Debug\Proje_Takip.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proje_Takip\obj\Debug\Proje_Takip.csproj.CopyComplete
+C:\Users\user\Desktop\Proje_Takip\obj\Debug\Proje_Takip.dll
+C:\Users\user\Desktop\Proje_Takip\obj\Debug\Proje_Takip.pdb
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Proje_Takip.dll.config
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Proje_Takip.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Proje_Takip.pdb
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\csc.exe
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\csc.exe.config
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\csc.rsp
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\csi.exe
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\csi.exe.config
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\csi.rsp
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.AppContext.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Console.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Net.Http.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\vbc.exe
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\vbc.exe.config
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\vbc.rsp
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Antlr3.Runtime.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\EntityFramework.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\EntityFramework.SqlServer.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Newtonsoft.Json.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Helpers.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Mvc.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Optimization.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Razor.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.WebPages.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\WebGrease.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\EntityFramework.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\EntityFramework.SqlServer.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Helpers.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Mvc.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Optimization.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.Razor.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.WebPages.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Newtonsoft.Json.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Antlr3.Runtime.pdb
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\obj\Debug\Proje_Takip.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\obj\Debug\Proje_Takip.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\obj\Debug\Proje_Takip.csproj.CopyComplete
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\obj\Debug\Proje_Takip.dll
+C:\Users\ALİ TOKMAK\Desktop\Proje_Takip\obj\Debug\Proje_Takip.pdb
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Proje_Takip.dll.config
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Proje_Takip.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Proje_Takip.pdb
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\csc.exe
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\csc.exe.config
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\csc.rsp
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\csi.exe
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\csi.exe.config
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\csi.rsp
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.AppContext.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Collections.Immutable.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Console.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Globalization.Calendars.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.IO.Compression.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.IO.FileSystem.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Net.Http.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Net.Sockets.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Reflection.Metadata.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.ValueTuple.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Xml.XPath.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\vbc.exe
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\vbc.exe.config
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\vbc.rsp
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\VBCSCompiler.exe
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\roslyn\VBCSCompiler.exe.config
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Antlr3.Runtime.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\EntityFramework.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\EntityFramework.SqlServer.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Microsoft.Web.Infrastructure.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Newtonsoft.Json.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Helpers.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Mvc.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Optimization.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Razor.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.WebPages.Deployment.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.WebPages.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.WebPages.Razor.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\WebGrease.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\EntityFramework.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\EntityFramework.SqlServer.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Helpers.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Mvc.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Optimization.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.Razor.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.WebPages.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.WebPages.Deployment.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\System.Web.WebPages.Razor.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Newtonsoft.Json.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Antlr3.Runtime.pdb
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\tr\System.Web.Helpers.resources.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\tr\System.Web.Mvc.resources.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\tr\System.Web.Optimization.resources.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\tr\System.Web.Razor.resources.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\tr\System.Web.WebPages.resources.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\obj\Debug\Proje_Takip.csproj.AssemblyReference.cache
+C:\SONNNNN\Harici Disk\Proje_Takip\obj\Debug\Proje_Takip.csproj.CoreCompileInputs.cache
+C:\SONNNNN\Harici Disk\Proje_Takip\obj\Debug\Proje_Ta.FFF1F698.Up2Date
+C:\SONNNNN\Harici Disk\Proje_Takip\obj\Debug\Proje_Takip.dll
+C:\SONNNNN\Harici Disk\Proje_Takip\obj\Debug\Proje_Takip.pdb
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Proje_Takip.dll.config
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Proje_Takip.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Proje_Takip.pdb
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\csc.exe
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\csc.exe.config
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\csc.rsp
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\csi.exe
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\csi.exe.config
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\csi.rsp
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.AppContext.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Console.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.IO.Compression.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Net.Http.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.ValueTuple.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\vbc.exe
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\vbc.exe.config
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\vbc.rsp
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\VBCSCompiler.exe
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Antlr3.Runtime.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\EntityFramework.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\EntityFramework.SqlServer.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Newtonsoft.Json.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Helpers.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Mvc.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Optimization.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Razor.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.WebPages.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.WebPages.Razor.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\WebGrease.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\EntityFramework.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\EntityFramework.SqlServer.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Helpers.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Mvc.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Optimization.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.Razor.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.WebPages.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\System.Web.WebPages.Razor.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Newtonsoft.Json.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Antlr3.Runtime.pdb
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\obj\Debug\Proje_Takip.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\obj\Debug\Proje_Takip.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\obj\Debug\Proje_Ta.FFF1F698.Up2Date
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\obj\Debug\Proje_Takip.dll
+C:\Users\ali\Desktop\Yeni klasör\Proje_Takip\obj\Debug\Proje_Takip.pdb

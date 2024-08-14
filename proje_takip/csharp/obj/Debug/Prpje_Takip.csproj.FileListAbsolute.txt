@@ -1,0 +1,24 @@
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\bin\Debug\Prpje_Takip.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\bin\Debug\Prpje_Takip.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\bin\Debug\Prpje_Takip.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.PersonelBilgileri.resources
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.PersonelProjeleri.resources
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\Prpje_Takip\obj\Debug\Prpje_Takip.Form1.resources
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\bin\Debug\Prpje_Takip.exe.config
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\bin\Debug\Prpje_Takip.exe
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\bin\Debug\Prpje_Takip.pdb
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.csproj.AssemblyReference.cache
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.Form1.resources
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.PersonelBilgileri.resources
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.PersonelProjeleri.resources
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.Properties.Resources.resources
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.csproj.GenerateResource.cache
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.csproj.CoreCompileInputs.cache
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.exe
+C:\Users\ali\Desktop\gt\proje_takip\Prpje_Takip\obj\Debug\Prpje_Takip.pdb

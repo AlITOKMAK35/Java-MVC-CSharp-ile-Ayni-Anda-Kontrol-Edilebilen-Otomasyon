@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Proje_Takip.Models.MusteriTakip.MusteriProjeleri>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.css" />
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.js"></script>
+<div class="card">
+    <h5 class="card-header">Müşteri Projeleri Listesi</h5>
+    <div class="card-body">
+
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.firmaadi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.unvan)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.sikayetistek)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.aciklama)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.firmaprojesi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.projenumarası)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.projeadi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.randevutarihi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.uygulamatarihi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.teslimtarihi)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.firmaadi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.unvan)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.sikayetistek)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.aciklama)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.firmaprojesi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.projenumarası)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.projeadi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.randevutarihi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.uygulamatarihi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.teslimtarihi)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.MusteriProjeleriId }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.MusteriProjeleriId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.MusteriProjeleriId })
+                    </td>
+                    <td>
+                        <a href="/MusteriProjeleris/Edit/@item.MusteriProjeleriId" class="btn btn-success"> <span class="tf-icons bx bx-edit"></span></a>
+                        <a href="/MusteriProjeleris/Details/@item.MusteriProjeleriId" class="btn btn-primary"><span class="tf-icons bx bx-detail"></span></a>
+                        <a href="/MusteriProjeleris/Delete/@item.MusteriProjeleriId" class="btn btn-danger" style="position:absolute"><span class="tf-icons bx bx-trash"></span></a>
+                        <a href="/MusteriProjeleris/HareketFöyü/@item.MusteriProjeleriId" class="btn btn-warning"><span class="tf-icons bx bx-history"></span></a>
+
+                    </td>
+                </tr>
+            }
+
+        </table>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{71681EEB-4095-403A-B551-8DEE54F715F8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Prpje_Takip</RootNamespace>
+    <AssemblyName>Prpje_Takip</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelBilgileri.Designer.cs">
+      <DependentUpon>PersonelBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelProjeleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelProjeleri.Designer.cs">
+      <DependentUpon>PersonelProjeleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="PROJETAKIPDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PROJETAKIPDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PROJETAKIPDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PROJETAKIPDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PROJETAKIPDBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PROJETAKIPDBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PROJETAKIPDBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PROJETAKIPDBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PROJETAKIPDBDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PROJETAKIPDBDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelBilgileri.resx">
+      <DependentUpon>PersonelBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelProjeleri.resx">
+      <DependentUpon>PersonelProjeleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="PROJETAKIPDBDataSet.xsc">
+      <DependentUpon>PROJETAKIPDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PROJETAKIPDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PROJETAKIPDBDataSet.xss">
+      <DependentUpon>PROJETAKIPDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet1.xsc">
+      <DependentUpon>PROJETAKIPDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PROJETAKIPDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PROJETAKIPDBDataSet1.xss">
+      <DependentUpon>PROJETAKIPDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet2.xsc">
+      <DependentUpon>PROJETAKIPDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PROJETAKIPDBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PROJETAKIPDBDataSet2.xss">
+      <DependentUpon>PROJETAKIPDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet3.xsc">
+      <DependentUpon>PROJETAKIPDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PROJETAKIPDBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PROJETAKIPDBDataSet3.xss">
+      <DependentUpon>PROJETAKIPDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet4.xsc">
+      <DependentUpon>PROJETAKIPDBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="PROJETAKIPDBDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PROJETAKIPDBDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PROJETAKIPDBDataSet4.xss">
+      <DependentUpon>PROJETAKIPDBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

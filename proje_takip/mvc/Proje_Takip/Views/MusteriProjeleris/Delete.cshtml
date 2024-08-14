@@ -1,0 +1,105 @@
+﻿@model Proje_Takip.Models.MusteriTakip.MusteriProjeleri
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>MusteriProjeleri</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.firmaadi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.firmaadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.unvan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.unvan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sikayetistek)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sikayetistek)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.aciklama)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.aciklama)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.firmaprojesi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.firmaprojesi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.projenumarası)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.projenumarası)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.projeadi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.projeadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.randevutarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.randevutarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.uygulamatarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.uygulamatarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.teslimtarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.teslimtarihi)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

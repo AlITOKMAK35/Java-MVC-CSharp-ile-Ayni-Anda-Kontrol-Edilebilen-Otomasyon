@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Proje_Takip.Models.Musteri.MusteriBilgileri>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.css" />
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.js"></script>
+<div class="card">
+    <h5 class="card-header">Personel Listesi</h5>
+    <div class="card-body">
+        <p>
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Ad)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Soyad)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Mail)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TelNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Adres)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Cinsiyet)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ad)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Soyad)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mail)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TelNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Adres)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cinsiyet)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.MusteriBilgileriId }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.MusteriBilgileriId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.MusteriBilgileriId })
+                    </td>
+                    <td>
+                        <a href="/MusteriBilgileris/Edit/@item.MusteriBilgileriId" class="btn btn-success"> <span class="tf-icons bx bx-edit"></span></a>
+                        <a href="/MusteriBilgileris/Details/@item.MusteriBilgileriId" class="btn btn-primary"><span class="tf-icons bx bx-detail"></span></a>
+                        <a href="/MusteriBilgileris/Delete/@item.MusteriBilgileriId" class="btn btn-danger" style="position:absolute"><span class="tf-icons bx bx-trash"></span></a>
+                        <a href="/MusteriBilgileris/HareketFöyü/@item.MusteriBilgileriId" class="btn btn-warning"><span class="tf-icons bx bx-history"></span></a>
+
+                    </td>
+                </tr>
+            }
+
+        </table>
